@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "dept": "الفيزياء الطبية",
+    "stage": 2,
+    "subject": "جرائم حزب البعث ",
+    "teacher": "-",
+    "price": "3500",
+    "code": "1|||أبيض وأسود",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "dept": "الأدلة الجنائية",
+    "stage": 2,
+    "subject": "جرائم جزب البعث",
+    "teacher": "",
+    "price": "3500",
+    "code": "1|||أبيض وأسود",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "dept": "__DEPARTMENT__",
+    "stage": 4,
+    "subject": "صناعة الاسنان ",
+    "teacher": "📚",
+    "price": "",
+    "code": "DEPT",
+    "image": ""
+  }
+]
